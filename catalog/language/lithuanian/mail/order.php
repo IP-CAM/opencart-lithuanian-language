@@ -26,7 +26,7 @@ $_['text_new_total']            = 'Viso';
 $_['text_new_download']         = 'Kai jūsų mokėjimas buvo patvirtintas, jūs galite paspausti ant nuorodos ir pereiti prie atsisiunčiamų prekių:';
 $_['text_new_comment']          = 'Komentarai apie jūsų užsakymą:';
 $_['text_new_footer']           = 'Jei turite kokių nors klausimų, prašome atsakyti į šį laišką.';
-$_['text_new_powered']          = 'href="http://www.opencart.com">OpenCart</a> varomas.';
+$_['text_new_powered']          = '<a href="http://www.opencart.com">OpenCart</a> varomas.';
 $_['text_update_subject']       = '%s - Užsakymo atnaujinimas %s';
 $_['text_update_order']         = 'Užsakymo Nr.:';
 $_['text_update_date_added']    = 'Užsakymo data:';
