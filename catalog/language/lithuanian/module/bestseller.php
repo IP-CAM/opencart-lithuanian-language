@@ -1,7 +1,7 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Bestsellers';
+$_['heading_title'] = 'Perkamiausios prekės';
 
 // Text
-$_['text_reviews']  = 'Based on %s reviews.'; 
+$_['text_reviews']  = 'Remiantis %s atsiliepimų.'; 
 ?>

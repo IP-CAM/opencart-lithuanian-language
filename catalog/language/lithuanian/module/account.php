@@ -1,20 +1,20 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Account';
+$_['heading_title']    = 'Paskyra';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_address']     = 'Address Books';
-$_['text_wishlist']    = 'Wish List';
-$_['text_order']       = 'Order History';
-$_['text_download']    = 'Downloads';
-$_['text_return']      = 'Returns';
-$_['text_transaction'] = 'Transactions';
-$_['text_newsletter']  = 'Newsletter';
+$_['text_register']    = 'Registruotis';
+$_['text_login']       = 'Prisijungti';
+$_['text_logout']      = 'Atsijungti';
+$_['text_forgotten']   = 'Slaptažodžio priminimas';
+$_['text_account']     = 'Paskyra';
+$_['text_edit']        = 'Redaguoti paskyrą';
+$_['text_password']    = 'Slaptažodis';
+$_['text_address']     = 'Adresų knygelė';
+$_['text_wishlist']    = 'Trokštamų pirkinių sąrasas';
+$_['text_order']       = 'Užsakymų istorija';
+$_['text_download']    = 'Parsisiuntimai';
+$_['text_return']      = 'Grąžinimo prašymai';
+$_['text_transaction'] = 'Transakcijos';
+$_['text_newsletter']  = 'Naujienlaiškiai';
 ?>

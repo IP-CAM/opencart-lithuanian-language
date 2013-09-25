@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - New Password';
-$_['text_greeting'] = 'A new password was requested from %s.';
-$_['text_password'] = 'Your new password to is:';
+$_['text_subject']  = '%s - Naujas slaptažodis';
+$_['text_greeting'] = '%s prašė naujo slaptažodžio.';
+$_['text_password'] = 'Jūsų naujas slaptažodis:';
 ?>

@@ -1,10 +1,10 @@
 <?php
 // Heading 
-$_['heading_title']     = 'Adresų knyga';
+$_['heading_title']     = 'Adresų knygelė';
 
 // Text
 $_['text_account']      = 'Paskyra';
-$_['text_address_book'] = 'Adresų knygos įrašai';
+$_['text_address_book'] = 'Adresų knygelės įrašai';
 $_['text_edit_address'] = 'Redaguoti adresą';
 $_['text_insert']       = 'Jūsų adresas įterptas';
 $_['text_update']       = 'Jūsų adresas atnaujintas';

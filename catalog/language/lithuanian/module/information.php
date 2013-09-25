@@ -1,8 +1,8 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Information';
+$_['heading_title'] = 'Informacija';
 
 // Text
-$_['text_contact']  = 'Contact Us';
-$_['text_sitemap']  = 'Site Map';
+$_['text_contact']  = 'Susisiekite su mumis';
+$_['text_sitemap']  = 'Tinklalapio struktūra';
 ?>

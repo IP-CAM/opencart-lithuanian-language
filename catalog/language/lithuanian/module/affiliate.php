@@ -1,16 +1,16 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'Partnerystė';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_payment']     = 'Payment Options';
-$_['text_tracking']    = 'Affiliate Tracking';
-$_['text_transaction'] = 'Transactions';
+$_['text_register']    = 'Registruotis';
+$_['text_login']       = 'Prisijungti';
+$_['text_logout']      = 'Atsijungti';
+$_['text_forgotten']   = 'Slaptažodžio priminimas';
+$_['text_account']     = 'Paskyra';
+$_['text_edit']        = 'Redaguoti paskyrą';
+$_['text_password']    = 'Slaptažodis';
+$_['text_payment']     = 'Mokėjimo būdai';
+$_['text_tracking']    = 'Partnerio sekimo kodas';
+$_['text_transaction'] = 'Transakcijos';
 ?>
